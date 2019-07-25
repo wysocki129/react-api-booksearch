@@ -1,0 +1,13 @@
+.Branding {
+	justify-content: center;
+	background-color: black;
+	height: 10vh;
+	max-height: 250px;
+	display: flex;
+	justify-content: center;
+	align-content: space-around;
+}
+
+.Branding h1 {
+	color: white;
+}
